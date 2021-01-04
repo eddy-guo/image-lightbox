@@ -10,3 +10,8 @@ body {
   grid-gap: 10px;
   height: 100vh;
 }
+.grid img {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+}
